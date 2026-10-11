@@ -8,7 +8,7 @@ public class RombusP
             {
                 System.out.print("  ");
             }
-            for(int j=1;j<=n;j++)
+            for(int j=1;j<=4;j++)
             {
                 System.out.print("* ");
             }
