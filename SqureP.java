@@ -5,7 +5,7 @@ public class SqureP
 
         for(int row=1 ;row<=n ;row++)
         {
-            for(int col= 1;col<=6;col++)
+            for(int col= 1;col<=7;col++)
             {
                 if(row==1||row==n)
                 {
@@ -13,7 +13,7 @@ public class SqureP
                 }
                 else
                     {
-                    if(col==1 || col==6)
+                    if(col==1 || col==7)
                     {
                         System.out.print("* ");
                     }
